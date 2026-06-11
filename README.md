@@ -1,4 +1,4 @@
-# Komputasi Numerik A
+# Komputasi Numerik A Kelompok 10
 
 | NRP | Nama |
 |------|-----|
